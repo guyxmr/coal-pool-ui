@@ -33,7 +33,7 @@ var networkStat = {
     "coal": [
         ["coal.mypool.online", "http://coal.mypool.online:7704"],
         ["democats.org", "http://pool.democats.org:7703"],
-        ["devmining.bitcoal.io", "http://devmining.bitcoal.io/:8117"]
+        ["devmining.bitcoal.io", "http://45.33.112.31:8117"]
 
     ],
     "dsh": [
