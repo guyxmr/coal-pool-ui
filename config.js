@@ -32,7 +32,7 @@ var networkStat = {
     ],
     "coal": [
         ["coal.mypool.online", "http://coal.mypool.online:7704"],
-        ["democats.org", "http://pool.democats.org:7703"]
+        ["democats.org", "http://pool.democats.org:7703"],
         ["devmining.bitcoal.io", "http://devmining.bitcoal.io/:8117"]
 
     ],
