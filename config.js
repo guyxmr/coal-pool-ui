@@ -6,7 +6,7 @@ var poolHost = "45.33.112.31";
 
 var irc = "irc.freenode.net/#poolhost";
 
-var email = "support@poolhost.com";
+var email = "support@bitcoal.io";
 
 var cryptonatorWidget = ["COAL-BTC", "COAL-USD", "COAL-EUR"];
 
