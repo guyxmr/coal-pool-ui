@@ -1,6 +1,6 @@
 var api = "http://45.33.112.31:8117";
 
-var api_blockexplorer = "http://45.33.112.31:1118";
+var api_blockexplorer = "http://45.33.112.31:7701";
 
 var poolHost = "45.33.112.31";
 
