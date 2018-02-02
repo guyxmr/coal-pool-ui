@@ -12,9 +12,9 @@ var cryptonatorWidget = ["COAL-BTC", "COAL-USD", "COAL-EUR"];
 
 var easyminerDownload = "https://github.com/zone117x/cryptonote-easy-miner/releases/";
 
-var blockchainExplorer = "http://chainradar.com/{symbol}/block/{id}";
+var blockchainExplorer = "/?hash={id}#blockchain_block";
 
-var transactionExplorer = "http://chainradar.com/{symbol}/transaction/{id}";
+var transactionExplorer = "/?hash={id}#blockchain_transaction";
 
 var themeCss = "themes/default-theme.css";
 
